@@ -2,5 +2,5 @@
 layout : slide
 welcome to second slide
 ---
-your text
+Smile, Cause Why Not!!!
 Use the left arrow to go back
